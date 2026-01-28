@@ -10,16 +10,23 @@ on:
 
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
-      - name: Generate Pacman Graph
-       
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Arcade Snake
+        # We use the Working Robot (Platane) but color it like Pacman
+        uses: Platane/snk@v3
         with:
-          username: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: github-dark
+          # This is the correct input name for this robot:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-style.svg?color_snake=#FFD700&color_dots=#0D1117,#191970,#4B0082,#8A2BE2,#FF00FF
+
+      - name: Push to Output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
