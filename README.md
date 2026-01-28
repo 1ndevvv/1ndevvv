@@ -39,7 +39,7 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
 
 
 <div align="center">
-  <img height="320" src="https://github.com/1ndevvv/1ndevvv/blob/main/repo_img.jpeg?raw=true"  />
+  <img height="420" src="https://github.com/1ndevvv/1ndevvv/blob/main/repo_img.jpeg?raw=true"  />
 </div>
 
 
