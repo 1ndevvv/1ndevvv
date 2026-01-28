@@ -66,11 +66,12 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
 
 
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/pacman-contribution-graph.svg">
-  </picture>
+<div align="center">
+
+  <h3>👻 Pacman Game</h3>
+  <img src="https://github.com/1ndevvv/1ndevvv/blob/main/pacman-contribution-graph.svg" alt="Pacman" width="100%" />
+
+  <br><br>
 
 
 
@@ -104,10 +105,14 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
   </a>
 </div>
 
-
 <br>
 
-  <img src="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/snake.svg" alt="Snake animation" />
+<h3>👾 Neon Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1ndevvv/1ndevvv/output/snake.svg">
+  </picture>
 
 </div>
 
