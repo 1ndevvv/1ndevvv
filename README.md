@@ -31,11 +31,8 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
 </p>
 
 <ul>
-  <li>🛠 From full-stack web apps to custom <b>IoT hardware</b>, I build solutions that bridge the gap between software and the physical world.</li>
-  <li>🧠 My background as a Founders Associate taught me to view code as a business lever—I build efficient, scalable systems, not just features.</li>
-  <li>⚡ Current Focus: Deep-diving into <b>Backend Architecture</b> and low-level system design.</li>
+<li>🛠 From full-stack web apps to custom <b>IoT hardware</b>...</li><li>🧠 My background as a Founders Associate...</li><li>⚡ Current Focus: Deep-diving into <b>Backend Architecture</b>...</li>
 </ul>
-
 
 
 <div align="center">
@@ -64,16 +61,18 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
 </p>
 
 
-
+<br>
 
 <div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Game" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</div>
 
-  <h3>👻 Pacman Game</h3>
-  <img src="https://github.com/1ndevvv/1ndevvv/blob/main/pacman-contribution-graph.svg" alt="Pacman" width="100%" />
-
-  <br><br>
-
-
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/devanshu-shah-b6a316262/" target="_blank">
@@ -92,7 +91,7 @@ I don't just use libraries; I dissect them. Whether it's optimizing backend logi
 
 
 <div align="center">
-  <h3>🏆 My Top Projects</h3>
+  <h3> My Top Projects</h3>
 
   <a href="https://github.com/1ndevvv/Internet-speed-check">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1ndevvv&repo=Internet-speed-check&theme=radical" />
