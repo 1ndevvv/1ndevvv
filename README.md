@@ -11,12 +11,12 @@
 
 <br>
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=tokyonight" height="180" alt="Dev's Stats" />
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=radical" height="180" alt="stats graph" />
+</div>
+<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <h3 align="left">⚡ About Me:</h3>
 <p align="left">
