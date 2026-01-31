@@ -11,15 +11,13 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=tokyonight" height="180" alt="Dev's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=tokyonight" height="180" alt="Dev's Stats" />
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
-
-
 <h3 align="left">⚡ About Me:</h3>
 <p align="left">
 I am a <b>Software Engineer & Maker</b> driven by a single question: <i>"How does this actually work?"</i><br>
