@@ -12,15 +12,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=radical" height="220" alt="stats graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=1ndevvv&show_icons=true&theme=tokyonight" height="180" alt="Dev's GitHub Stats" />
+  
+  <br><br>
 
-<br>
-
-<br>
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ndevvv&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
 
